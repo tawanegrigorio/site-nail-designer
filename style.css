@@ -87,7 +87,10 @@ body {
     background: #e89aaa;
     color: #171717;
     border-radius: 10px;
-    border: #000;
+    border: none;
+    outline: none;
+    appearance: none;
+    -webkit-appearance: none;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
