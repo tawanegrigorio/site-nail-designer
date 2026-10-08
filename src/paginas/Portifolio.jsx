@@ -5,7 +5,7 @@ function Portifolio() {
         <>
             <header>
                 <a href="/" className="voltar">← VOLTAR</a>
-                <h1>THIÁLITA NAIL</h1> 
+                <h1>THIÁLITA NAILS</h1> 
                 <span>Um toque de beleza.</span>
             </header> 
             <main> 
