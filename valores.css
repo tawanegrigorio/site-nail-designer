@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background: #f8e9dc;
+    color: #171717;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+header {
+    padding: 10px;
+}
+
+.voltar {
+     display: inline-block;
+    margin-bottom: 50px;
+    color: #171717;
+    text-decoration: none;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+
+header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+header p {
+    margin-top: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-align: center;
+
+}
+
+header span {
+    display: block;
+    margin-top: 12px;
+    color: #777;
+    font-family: 'Playfair Display', serif;
+    font-size: 13px;
+    text-align: center;
+}
+
+.tabela {
+    width: min(600px, 90%);
+    margin: 30px auto 60px;
+}
+
+.servico {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 55px;
+    padding: 10px 20px;
+    margin-bottom: 12px;
+    background: #e89aaa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.18);
+
+}
+
+.servico span {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.servico strong {
+    font-size: 12px;
+    font-weight: 700;
+}
+
