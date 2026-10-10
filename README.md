@@ -25,6 +25,10 @@ O Thiálita Nails é um projeto prático de desenvolvimento web, criado para ofe
 - **Site:** https://www.thialitanaildesigner.com.br
 - **Repositório:** https://github.com/tawanegrigorio/site-nail-designer
 
+ ## Prévia do projeto
+
+![Prévia do site Thiálita Nails](siteunhas)
+
 
 
 Este projeto faz parte da minha evolução em desenvolvimento Front-End, permitindo praticar a criação de interfaces, a organização de componentes e a construção de páginas para um negócio real.
