@@ -27,7 +27,7 @@ O Thiálita Nails é um projeto prático de desenvolvimento web, criado para ofe
 
  ## Prévia do projeto
 
-![Prévia do site Thiálita Nails](siteunhas)
+![Prévia do site Thiálita Nails](siteunhas.png)
 
 
 
