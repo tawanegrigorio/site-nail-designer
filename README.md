@@ -1,16 +1,30 @@
-# React + Vite
+# Thiálita Nails
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site desenvolvido para uma profissional, com o objetivo de apresentar seus serviços e trabalhos de forma moderna e organizada.
 
-Currently, two official plugins are available:
+## Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O Thiálita Nails é um projeto prático de desenvolvimento web, criado para oferecer uma experiência visual agradável e facilitar o acesso às informações.
 
-## React Compiler
+## Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- HTML5
+- CSS3
+- JavaScript
+- React
 
-## Expanding the ESLint configuration
+## Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project..
+- Apresentação dos serviços.
+- Galeria de trabalhos.
+- Navegação entre as seções.
+- Acesso às informações de contato.
+
+## Acesse o projeto
+
+- **Site:** https://www.thialitanaildesigner.com.br
+- **Repositório:** https://github.com/tawanegrigorio/site-nail-designer
+
+
+
+Este projeto faz parte da minha evolução em desenvolvimento Front-End, permitindo praticar a criação de interfaces, a organização de componentes e a construção de páginas para um negócio real.
